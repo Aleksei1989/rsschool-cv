@@ -1,5 +1,5 @@
-1. #**Aleksei Chertovich**
-2. #**Contacts:**
+1. # **Aleksei Chertovich**
+2. # **Contacts:**
 - Cell Phone +375291499834
 - e-mail: alexcharta1@mail.ru
 - Viber, WhatsApp, Telegram +375291499834
