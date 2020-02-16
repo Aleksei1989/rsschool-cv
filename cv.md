@@ -8,7 +8,7 @@ I'm intersted in some kind of intllectual work, some work that helps to train my
 ## **4. Skills:** 
 some knowledge of programming in several dead languages -  Basic, Pascal, Fortran.
 ## **5. Code examples:** 
-[Only this one](https://github.com/Aleksei1989) 
+[Only this one](https://github.com/Aleksei1989) :laughing:
 ## **6. Experience:** 
 I've learned programming at school and at the university and I was good. That's all my experience.
 ## **7. Education:** 
